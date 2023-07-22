@@ -1,0 +1,27 @@
+.product{
+    /* border: 2px solid goldenrod; */
+    margin-top: 5px;
+    padding: 5px;
+    display: flex;
+    flex-direction: column;
+    min-width: 1335px;
+  }
+ 
+  .part2 img {
+    /* border: 2px solid black; */
+    margin: 0px 5px;
+    box-shadow: 5px 5px 5px 0px palevioletred;
+ 
+}
+
+.part1 {
+    /* border: 2px solid hotpink; */
+    margin: auto;
+  }
+ 
+  .part2 {
+    /* border: 2px solid pink; */
+    text-align: center;
+    min-width: 1330px;
+  }
+ 
